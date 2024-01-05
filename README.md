@@ -1,4 +1,4 @@
-# PCA
+# PCA implementation
 You are provided with 2 synthetically generated json files, ’emails.json’ and ’emails new.json’. These can be imported and parsed with JuliaLang via
 usingJSON; emails parsed = JSON.parsefile(”emails.json”);
 
